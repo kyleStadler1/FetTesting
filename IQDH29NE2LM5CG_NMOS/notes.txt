@@ -1,0 +1,1 @@
+When turn on -> turn off it doesnt go to zero volts even when gate is zero volts
